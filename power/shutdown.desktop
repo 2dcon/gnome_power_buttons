@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Shut Down
+Exec=shutdown now
+Icon=/home/ferris/Pictures/ico/shutdown.svg
+Terminal=false

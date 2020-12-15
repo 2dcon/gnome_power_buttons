@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Encoding=UTF-8
+Name=Reboot
+Exec=reboot
+Icon=/home/ferris/Pictures/ico/reboot.svg
+Terminal=false
